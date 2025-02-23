@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const sidebar = document.querySelector(".sidebar");
 
     // OpenAI API configuration
-    const OPENAI_API_KEY = "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"; // Replace with your actual API key
+    const OPENAI_API_KEY = "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"; // Replace with your actual API key
     const OPENAI_MODEL = "gpt-3.5-turbo"; // Cost-effective and suitable for legal questions
 
     // Predefined questions and answers
